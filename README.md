@@ -8,7 +8,7 @@
 
     -Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-THIS CALCULATOR IS JUST A TEST
+## *THIS CALCULATOR IS JUST A TEST*
 
 ## Features
 
