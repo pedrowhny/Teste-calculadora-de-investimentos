@@ -138,3 +138,5 @@ e_valor_dias.bind("<KeyRelease>", calcular_lucro)
 e_valor_porcentagem.bind("<KeyRelease>", calcular_lucro)
 
 janela.mainloop()
+
+# TESTE.
