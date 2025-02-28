@@ -125,7 +125,7 @@ app_mes = Label(frameMes, text="", width=10, anchor="center", font=("Verdana, 15
 app_mes.place(x=20, y=35)
 
 # Total
-app_ = Label(frameTotal, text="Lucro Total", width=15, anchor="center", font=("Verdana, 11"), bg=co1, fg='#4E6E81')
+app_ = Label(frameTotal, text="Montante", width=15, anchor="center", font=("Verdana, 11"), bg=co1, fg='#4E6E81')
 app_.place(x=20, y=7)
 
 app_total = Label(frameTotal, text="", width=10, anchor="center", font=("Verdana, 15"), bg=co1, fg=co0)
