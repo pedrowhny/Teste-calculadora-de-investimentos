@@ -1,10 +1,14 @@
-### COMO EXECUTAR O PROGRAMA?
+### Calculadora de investimentos em Python
+Este é um projeto de calculadora de investimentos em juros simples desenvolvido em Python. Realiza cálculos de retorno em juros simples.
 
--1. Certifique-se de que tenha instalado o VS Code em sua máquina.
+Pré-requisitos:
 
--2. Faça o download do projeto.
+* Python instalado
+* VS Code instalado
 
--3. Extraia a pasta se necessário e a abra dentro do VS Code.
-
-4-. Execute-o no compilador do VS Code (presente na parte superior direita).
-
+1.  Faça o download do projeto ou clone o repositório.
+2.  Abra o VS Code.
+3.  Extraia a pasta ou os arquivos se necessário.
+4.  No VS Code, vá em "File" > "Open Folder..." e selecione a pasta onde você baixou/clonou o repositório.
+5.  No terminal do VS Code, certifique-se de que você está na pasta do projeto.
+6.  Execute o programa no compilador do VS Code.
